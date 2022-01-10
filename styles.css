@@ -52,3 +52,6 @@ i {
 .units {
   font-size: 12px;
 }
+
+p {
+  padding: 40px;
